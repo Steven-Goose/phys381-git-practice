@@ -1,0 +1,1 @@
+This is a placeholder for my project description for Assignment 17!
